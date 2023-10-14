@@ -1916,7 +1916,7 @@ header .circle {
 
 @media (max-width: 600px) {
   .grid-item {
-    width: 150%;
+    width: 100%;
   }
   .imglogo{
     width: 0120px;
