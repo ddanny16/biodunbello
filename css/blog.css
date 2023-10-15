@@ -1,0 +1,19 @@
+.post {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.post h2 {
+    font-size: 24px;
+    margin: 0;
+}
+
+.post p {
+    margin: 10px 0;
+}
+
+.read-more {
+    color: blue;
+    cursor: pointer;
+}
